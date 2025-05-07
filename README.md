@@ -95,6 +95,9 @@ CPU 연산 성능과 전송 속도가 중요한 작업에는 c7g 인스턴스가
 
 인스턴스를 선택할 때는 단순 사양보다 작업 유형에 따라 알맞은 인스턴스와 리전을 선택해야 한다.
 
+### 최적 인스턴스 계산기
+https://kyun9-cloud.github.io/pracc/
+
 ## ⛔️ 잘못된 설계의 원인
 > SCP(Secure Copy Protocol)의 오용
 
@@ -106,6 +109,4 @@ time 명령어는 cpu 시간을 포함한다. user 시간과 system 시간을 �
 
 `두 문제를 대신하여 iperf 를 사용해볼 수 있다.`
 
-최적 인스턴스 계산기
-https://kyun9-cloud.github.io/pracc/
 
